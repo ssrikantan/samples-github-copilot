@@ -19,8 +19,8 @@ def analyze_sentiment():
     print(f"Input text: {input_text}")
 
     # set the API key and endpoint
-    api_key = "7ffe0f68cbbd424d9b3b6b93ef14a065"
-    endpoint = "https://languagemtc.cognitiveservices.azure.com/"
+    api_key = "xxxxxxxxxxxx"
+    endpoint = "https://xxxxxxxxxxxxxxxx.cognitiveservices.azure.com/"
 
     # set the API URL
     sentiment_api_url = f"{endpoint}/text/analytics/v2.1/sentiment"

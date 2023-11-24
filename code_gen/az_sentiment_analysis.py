@@ -4,6 +4,6 @@
 3) evaluate the sentiment score and sentiment label returned by the API
 4) print the sentiment score and sentiment label to console
 
-Endpoint: https://languagemtc.cognitiveservices.azure.com/
-api-key: 7ffe0f68cbbd424d9b3b6b93ef14a065
+Endpoint: https://xxxxxxxxxxxxxxxxxx.cognitiveservices.azure.com/
+api-key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 """    

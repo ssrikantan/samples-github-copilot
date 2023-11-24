@@ -1,0 +1,12 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none",
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\sansri\\.azurelogicapps\\dependencies\\DotNetSDK;${env:PATH}"
+    },
+    "omnisharp.dotNetCliPaths": [
+        "C:\\Users\\sansri\\.azurelogicapps\\dependencies\\DotNetSDK"
+    ]
+}

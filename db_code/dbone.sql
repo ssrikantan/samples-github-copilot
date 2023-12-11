@@ -3,12 +3,6 @@ DECLARE @StartDate DATE = '2019-01-01';
 DECLARE @EndDate DATE = '2019-12-31';
 DECLARE @ProductCategoryName VARCHAR(50) = 'Bikes';
 
--- Query the SalesOrderHeader, SalesOrderDetail, Product, ProductSubcategory, and ProductCategory tables
--- Join them on the foreign key columns
--- Filter by the date range and the product category name
--- Group by the sales order number, customer name, order date, and product name
--- Calculate the total quantity and amount for each order and product
--- Order by the sales order number in descending order
 SELECT 
     SOH.SalesOrderNumber AS OrderNumber,
     C.FirstName + ' ' + C.LastName AS CustomerName,

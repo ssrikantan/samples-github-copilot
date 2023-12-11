@@ -42,6 +42,7 @@ def analyze_sentiment():
     print(f"Sentiment score: {sentiment_score}")
     print(f"Sentiment label: {sentiment_label}")
 
+# This is the main function the calls this python code
 if __name__ == "__main__":
     analyze_sentiment()
 

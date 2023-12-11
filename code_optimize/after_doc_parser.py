@@ -20,7 +20,8 @@ json_doc = [
   '{"id": "A002", "value": 200, "items": ["orange", "mango"]}',
   '{"id": "A003", "value": 150, "items": ["grape", "melon"]}',
   '{"id": "A004", "value": 50, "items": ["pear", "peach"]}',
-  '{"id": "A005", "value": 80, "items": ["pear", "peach"]}'
+  '{"id": "A005", "value": 80, "items": ["pear", "peach"]}',
+  '{"id": "A006", "value": 85, "items": ["pear", "peach"]}'
 ]
 
 # example amount to search for

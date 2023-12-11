@@ -4,6 +4,6 @@
 3) evaluate the sentiment score and sentiment label returned by the API
 4) print the sentiment score and sentiment label to console
 
-Endpoint: https://xxxxxxxxxxxxxxxxxx.cognitiveservices.azure.com/
-api-key: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+Endpoint: https://demoservice.cognitiveservices.azure.com/
+api-key: abxx1234xxxxxxxxxwewqeqwxx
 """    
